@@ -1,0 +1,3 @@
+// Decorateur
+
+Class
